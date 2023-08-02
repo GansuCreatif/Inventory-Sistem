@@ -52,7 +52,8 @@ stateFree = function()
 	{
 		//Enter drag state
 		state = stateDrag;
-		itemDrag = inventoryHover;
+		itemDrag = inventoryHover.inventory[slotHover];
+		inventoryDrag = inventoryHover;
 		slotDrag = slotHover;
 	}
 }
