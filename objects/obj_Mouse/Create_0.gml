@@ -1,5 +1,3 @@
-/// @description Insert description here
-// You can write your code in this editor
 inventoryHover = -1;
 slotHover = -1;
 inventoryDrag = -1;

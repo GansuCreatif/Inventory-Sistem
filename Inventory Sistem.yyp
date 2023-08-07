@@ -31,9 +31,10 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.4.0.84",
+    "IDEVersion": "2023.6.0.92",
   },
   "resources": [
+    {"id":{"name":"spr_destroy","path":"sprites/spr_destroy/spr_destroy.yy",},},
     {"id":{"name":"scr_Inventory_Function","path":"scripts/scr_Inventory_Function/scr_Inventory_Function.yy",},},
     {"id":{"name":"objInventory","path":"objects/objInventory/objInventory.yy",},},
     {"id":{"name":"sprItem","path":"sprites/sprItem/sprItem.yy",},},
